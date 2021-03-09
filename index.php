@@ -24,7 +24,7 @@
     </div>
       
     <div class="donate-img">
-        <img src="images/donate.png">
+        <img src="images/donate-img.png">
     </div>
             
     <div class="quote">
