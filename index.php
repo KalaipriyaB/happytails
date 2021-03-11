@@ -30,6 +30,13 @@
     <div class="quote">
           <p>We can make a Life by giving..<br>So let's start donating today &#9829;</p>
     </div>
+    
+    <footer class="footer">
+    <p>&#169; Made by:
+          <a href="https://www.linkedin.com/in/kalaipriya-balamurugan-0564841b4/">Kalaipriya</a><br>
+    For The Sparks Foundation #GRIPMAR
+    </p>
+</footer> 
    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
