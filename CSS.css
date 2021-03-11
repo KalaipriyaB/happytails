@@ -33,6 +33,13 @@ body{
     color: #581845;
 }
 
+.footer {
+  text-align: center;
+  padding: 5px;
+  background-color: darksalmon;
+  color: black;
+  font-weight: 600;
+}
 .donate-img{    
     margin-left:200px;
     padding-left: 300px;
