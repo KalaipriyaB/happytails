@@ -14,7 +14,7 @@
   <body>
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        <h1 class="title">Happy Tails</h1>
+        <h1 class="title"> The Happy Tails</h1>
       </div>
     </div>
     <div class="read-me">
