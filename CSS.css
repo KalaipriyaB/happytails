@@ -53,11 +53,6 @@ body{
     padding-right: 200px;
 }
 
-a{
-    color: darkblue;
-    font-size: 30px;
-}
-
 .btn-grad {
     background-image: linear-gradient(to right, #3CA55C 0%, #B5AC49  51%, #3CA55C  100%)
 }
